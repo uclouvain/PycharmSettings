@@ -1,0 +1,13 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="includedRules">
+      <set>
+        <option value="python:FunctionComplexity" />
+        <option value="python:LineLength" />
+        <option value="python:OneStatementPerLine" />
+        <option value="python:S113" />
+        <option value="python:S134" />
+      </set>
+    </option>
+  </component>
+</application>
